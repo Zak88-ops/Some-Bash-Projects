@@ -44,3 +44,7 @@ project URL :
 https://roadmap.sh/projects/server-stats
 
 This is project "https://roadmap.sh/projects/server-stats" DevOps project
+
+https://roadmap.sh/projects/simple-monitoring-dashboard
+
+
