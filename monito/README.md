@@ -103,6 +103,5 @@ every: 10s
 
 
 
-project URL ::
+## project URL ::
 https://roadmap.sh/projects/simple-monitoring-dashboard
-github.com/Zak88-ops/Some-Bash-Projects/blob/main/monito
