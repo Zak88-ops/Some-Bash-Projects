@@ -99,3 +99,9 @@ every: 10s
 
 - This was tested on WSL2 (Kali Linux), where `os-release` detection can report as "unknown" — this is cosmetic and doesn't affect metric collection.
 - No external notification (email/Slack) is configured — alerts are visible only in the local dashboard and via the API.
+
+
+
+
+project URL ::
+https://roadmap.sh/projects/simple-monitoring-dashboard
