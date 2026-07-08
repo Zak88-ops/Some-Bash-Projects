@@ -40,3 +40,5 @@ run these cmds in ur Cli :
 
 >Note: some parts of the script use `sudo` (for installing/enabling fail2ban , sysstat), so you may be prompted for your password.
  
+project URL :
+https://github.com/Zak88-ops/Some-Bash-Projects/tree/main
