@@ -89,6 +89,7 @@ A Bash CLI tool that parses Nginx access logs and extracts:
 📄 Full documentation: [`nginx-log-analyser/README.md`](./nginx-log-analyser/README.md)
 
 **Project reference:** [roadmap.sh/projects/nginx-log-analyser](https://roadmap.sh/projects/nginx-log-analyser)
+https://roadmap.sh/projects/file-integrity-checker
 
 ---
 
