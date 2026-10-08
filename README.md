@@ -22,7 +22,7 @@ Built while following the [roadmap.sh DevOps path](https://roadmap.sh/devops) �
 | 🖥️ **[server-stats.sh](./server-stats.sh)** | Displays key server health & security stats in one shot — CPU, memory, disk I/O, uptime, top processes — plus automated `fail2ban` setup for SSH brute-force protection. | [roadmap.sh project](https://roadmap.sh/projects/server-stats) |
 | 📊 **[monito/](./monito)** | A simple server monitoring dashboard for tracking live system metrics. | [roadmap.sh project](https://roadmap.sh/projects/simple-monitoring-dashboard) |
 | 🔍 **[nginx-log-analyser/](./nginx-log-analyser)** | Parses Nginx access logs to surface top IPs, top requested paths, status code breakdowns, and basic security threat detection (404 scanners). | [Full README](./nginx-log-analyser/README.md) · [roadmap.sh project](https://roadmap.sh/projects/nginx-log-analyser) |
-
+| 🐳 **[docker-voting-app/](docker-voting-app)** | Five-service app (Python, Node.js, .NET, Redis, PostgreSQL) deployed with Docker Compose on a cloud server. | [Deployment guide](docker-voting-app/DEPLOYMENT.md) |
 ---
 
 ## 🖥️ server-stats.sh
